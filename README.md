@@ -6,8 +6,8 @@ first go to backend folder and
 
 then go to front end and open cmd
 
-for first time run { npm i}
+for first time run < npm i >
 
-after tht run< npm run dev>
+after that run < npm run dev >
 
 then open the link
